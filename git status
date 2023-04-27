@@ -1,0 +1,23 @@
+[33mcommit 16506e3bae2a206e4f39904d378abce33ec597b8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mirajuddin Haidari <mearajuddin.haidary@gmail.com>
+Date:   Thu Apr 27 08:46:17 2023 +0430
+
+    test.txt renamed to test2.html
+
+[33mcommit 384f045c0e5add7fc8ed51b8eabbcadc1b217bf1[m
+Author: Mirajuddin Haidari <mearajuddin.haidary@gmail.com>
+Date:   Mon Apr 24 10:54:52 2023 -0500
+
+    Updated txt file
+
+[33mcommit 988941d61e75e35703d115cbbb3a6572e003e221[m[33m ([m[1;32mtestBranch[m[33m)[m
+Author: Mirajuddin Haidari <mearajuddin.haidary@gmail.com>
+Date:   Thu Apr 20 12:24:52 2023 -0500
+
+    Removed h3 from index.html
+
+[33mcommit ac5c64a182c8d4c57c66f488f28e6b6b55c5a323[m
+Author: Mirajuddin Haidari <mearajuddin.haidary@gmail.com>
+Date:   Tue Apr 18 12:41:54 2023 -0500
+
+    first commit - committing all files to the repository
